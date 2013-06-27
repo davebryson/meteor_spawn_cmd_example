@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "bootstrap-jasny": {}
+    },
+    "packages": {
+      "bootstrap-jasny": {
+        "git": "https://github.com/limeyd/meteor-bootstrap-jasny.git",
+        "tag": "v1.1.0",
+        "commit": "8ef08074dbfb60c462432c50957604cbef3e976d"
+      }
+    }
+  }
+}
